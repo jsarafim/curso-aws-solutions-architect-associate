@@ -3,7 +3,7 @@
 # Instale com: sudo apt install jq
 
 # === CONFIGURAÇÕES DO USUÁRIO ===
-MFA_ARN="arn:aws:iam::123456789012:mfa/cli-user"   # ← Substitua pelo seu ARN real
+MFA_ARN="arn:aws:iam::775708361621:user/cli-aluno"   # ← Substitua pelo seu ARN real
 PROFILE_NAME="default"                             # Ou use "mfa" se quiser usar um perfil separado
 
 # === ENTRADA DO USUÁRIO ===
